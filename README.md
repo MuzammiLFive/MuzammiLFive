@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuzammiLFive
-- 👀 I’m interested in Frontend frameworks and full stack development.
-- 🌱 I’m currently doing my master's degree in Computer Science at University of Leicester.
+- 👀 I’m interested in Frontend and full stack development.
+- 🌱 I’m currently doing my master's in Advenced Computer Science at University of Leicester.
 - 💞️ I’m looking for full oppurtunities based in UK.
 - 📫 How to reach me: muzammilfive@gmail.com
 
