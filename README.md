@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MuzammiLFive<br>👀 Interested in Frontend and Full-Stack development.<br>🌱 Pursuing master's in Advanced Computer Science at the University of Leicester.<br>💞️ I’m looking for full-time opportunities.<br>📫 Shoot me an email or add me on LinkedIN
+👋 Hi, I’m @MuzammiLFive<br>👀 Interested in Frontend and Full-Stack development.<br>🌱 Pursuing master's in Advanced Computer Science at the University of Leicester.<br>💞️ Looking for full-time opportunities.<br>📫 Shoot me an email or add me on LinkedIN
 
 
 ## 🌐 Socials:
