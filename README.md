@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Muzammil!<br>🌱 Pursuing MSc Advanced Computer Science.<br>👀 Looking for full-time opportunities.<br>📫 Shoot me an email or add me on LinkedIN
+👋 Hi, I’m Muzammil!<br>🌱 Writing clean code and building consistent software solutions.<br>👀 Open to full-time opportunities.<br>📫 Connect with me through email or LinkedIN.
 
 
 ## 🌐 Socials:
